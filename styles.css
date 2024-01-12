@@ -1,0 +1,59 @@
+.title{
+    width: 100%;
+    text-align: center;
+    font-size: 36px;
+}
+/*div{
+    width: 600px;
+    height: 600px;
+    border: 10px solid gray;
+    margin: 50px auto;
+    
+    background: url(imagen.jpeg) center no-repeat green border-box;
+    overflow: visible;
+} Ejemplo para poner todas las etiquetas vistas en una sentencia.*/
+
+/*div{
+    width: 600px;
+    height: 600px;
+    border: 10px solid gray;
+    margin: 50px auto;
+
+    overflow: hidden;
+} Ejemplo para ponerlo como etiqueta.*/ 
+
+/*div{
+    width: 600px;
+    height: 600px;
+    border: 10px dotted yellowgreen;
+    margin: 50px auto;
+
+    background-color: red;
+    background-image: url(imagen.jpeg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: center;
+
+    display: none;
+
+    background-clip: padding-box;
+}Primer ejemplo con la explicación de todas las etiquetas.*/
+
+/*body{
+    background-image: url(imagen.jpeg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+
+    background-attachment: fixed;
+}*/
+
+.title{
+    margin: 0px;
+    width: 100%;
+    background-color: red;
+    position: fixed;
+}
+
+body{
+    margin: 0%;
+}
