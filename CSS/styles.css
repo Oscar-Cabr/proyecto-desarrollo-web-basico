@@ -295,6 +295,10 @@ footer{
     .quote{
         font-size: 6vw;
     }
+    .media_video{
+        width: 90%;
+        height: auto;
+    }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
     .responsive_text{
@@ -316,10 +320,6 @@ footer{
     }
     .quote{
         font-size: 8vw;
-    }
-    .media_video{
-        width: 90%;
-        height: auto;
     }
 }
 @media screen and (min-width: 1024px){
